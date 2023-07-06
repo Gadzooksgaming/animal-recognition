@@ -1,0 +1,35 @@
+body{
+font-family:monospace;
+background:darkslategrey;
+color: rgb(139, 150, 252);
+
+}
+
+#sound_name,#sound_accuracy{
+    font-family:'Special Elite', fantasy;
+    color: rgb(139, 150, 252);
+}
+
+.header_div{
+background:darkslategray;
+color: rgb(154, 102, 102);
+
+}
+
+.header_div p{
+    font-family: 'roboto',cursive;
+    color: khaki;
+    font-size: medium;
+
+}
+
+.copy_right_footer{
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(52, 3, 3);
+}
+
